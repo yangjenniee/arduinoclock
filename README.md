@@ -40,7 +40,7 @@ Ardunio-Clock (아두이노 시계)
 
 ## 구현 영상
 ### 센서 무드등 
-
+<img width="50%" src="./readme_Resource/lightOn.gif"/>
 
 
 
