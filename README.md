@@ -39,6 +39,8 @@ Ardunio-Clock (아두이노 시계)
 
 ## 구현 영상
 아래 사진 클릭 시 해당 링크로 이동합니다. 
+<br>
+<br>
 [![유튜브이동](http://img.youtube.com/vi/xoXcwPfs7Pc/0.jpg)](https://youtu.be/xoXcwPfs7Pc)
 
 
