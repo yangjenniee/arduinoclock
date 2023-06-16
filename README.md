@@ -10,7 +10,6 @@ Ardunio-Clock (아두이노 시계)
   - [기능 소개](#기능-소개)
   - [임베디드 요소](#임베디드-요소)
   - [구현 영상](#구현-영상)
-    - [센서 무드등](#센서-무드등)
 
 
 ## <br>프로젝트 개요
@@ -39,7 +38,7 @@ Ardunio-Clock (아두이노 시계)
 * 푸쉬버튼<br>
 
 ## 구현 영상
-[![유튜브이동](http://img.youtube.com/vi/watch?v=xoXcwPfs7Pc/0.jpg)](https://youtu.be/watch?v=xoXcwPfs7Pc)
+[![유튜브이동](http://img.youtube.com/vi/xoXcwPfs7Pc/0.jpg)](https://youtu.be/xoXcwPfs7Pc)
 
 
 
