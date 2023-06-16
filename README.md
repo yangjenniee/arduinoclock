@@ -39,10 +39,7 @@ Ardunio-Clock (아두이노 시계)
 * 푸쉬버튼<br>
 
 ## 구현 영상
-### 센서 무드등 
-<img width="50%" src="./readme_Resource/lightOn.gif"/>
-
-
+[![유튜브이동](http://img.youtube.com/vi/watch?v=xoXcwPfs7Pc/0.jpg)](https://youtu.be/watch?v=xoXcwPfs7Pc)
 
 
 
